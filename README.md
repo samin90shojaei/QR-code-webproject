@@ -1,2 +1,3 @@
 # QR code webproject
- a QR code generator with flask mini-framework
+ a QR code generator with flask mini-framework 
+ 
